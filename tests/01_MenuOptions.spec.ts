@@ -4,6 +4,7 @@ import { HomePage } from '../pages/HomePage';
 import { LoginPage } from '../pages/LoginPage';
 import { HomePageMenuOptions } from '../pages/HomePageMenuOptions';
 
+//Verify that all menu options are visible after login
 test('Verify that all menu options are visible', async ({ page })=> {
  
     const homePage = new HomePage(page);
