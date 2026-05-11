@@ -5,7 +5,7 @@ import { LoginPage } from '../pages/LoginPage';
 import { ProductPage } from '../pages/ProductPage';
 import { CartPage } from '../pages/CartPage';
 import { CheckoutPage } from '../pages/CheckoutPage';
-import { LandingPage } from '../pages/landingPage';
+import { LandingPage } from '../pages/LandingPage';
 import { HomePageMenuOptions } from '../pages/HomePageMenuOptions';
 
 
